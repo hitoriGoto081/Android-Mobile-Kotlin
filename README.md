@@ -1,2 +1,2 @@
 Tugas Mid Praktikum Mobile Native
-MINIMAL IZIN ATAU KASIH BINTANG LAH BOSS,MAIN DOWNLOAD AJA LUWH
+Penggunaan Recycler View Untuk Project LinkTree
